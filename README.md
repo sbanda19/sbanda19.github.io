@@ -1,0 +1,66 @@
+<body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Bowl 1996</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Super Bowl 1996</h1>
+        <p>Dallas Cowboys vs. Pittsburgh Steelers</p>
+    </header>
+    
+    <nav class="menu">
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#highlights">Highlights</a></li>
+            <li><a href="#images">Images</a></li>
+            <li><a href="#resources">Resources</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Super Bowl 1996</h2>
+        <p>
+            Super Bowl XXX was held on January 28, 1996, at Sun Devil Stadium in Tempe, Arizona. It featured a matchup between the Dallas Cowboys and the Pittsburgh Steelers.
+        </p>
+    </section>
+
+    <section id="highlights">
+        <h2>Key Highlights</h2>
+        <ul>
+            <li>Larry Brown of the Dallas Cowboys was named the Super Bowl MVP.</li>
+            <li>The Cowboys defeated the Steelers with a score of 27-17.</li>
+            <li>The halftime show featured Diana Ross.</li>
+        </ul>
+    </section>
+
+    <section id="images">
+        <h2>Images</h2>
+        <img src="super_bowl_1996.jpg" alt="Super Bowl 1996" width="400">
+    </section>
+
+    <section id="resources">
+        <h2>Resources</h2>
+        <h3>External Websites:</h3>
+        <ul>
+            <li><a href="https://www.nfl.com/super-bowl/history/1995" target="_blank">NFL Super Bowl History</a></li>
+            <li><a href="https://en.wikipedia.org/wiki/Super_Bowl_XXX" target="_blank">Super Bowl XXX - Wikipedia</a></li>
+            <li><a href="https://www.dallascowboys.com/" target="_blank">Dallas Cowboys Official Website</a></li>
+            <li><a href="https://www.steelers.com/" target="_blank">Pittsburgh Steelers Official Website</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Super Bowl 1996 Website</p>
+        <p>Contact: sbanda3@collin.edu | Phone: (123) 456-7890</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+# sbanda19.github.io
